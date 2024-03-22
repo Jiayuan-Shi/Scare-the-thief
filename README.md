@@ -7,8 +7,8 @@ Since this script automatically amplifies the system sound and plays annoying so
 ## 用法（Windows）
 ## Usage (Windows)
 
-打开命令行，在你选择的目录下：
-In your directory， run below in command line, :
+打开命令行，在你选择的目录下：  
+In your directory, run below in command line:
 ```
 git clone https://github.com/Jiayuan-Shi/Scare-the-thief.git
 cd Scare-the-thief
