@@ -21,7 +21,7 @@ def request_pushplus():
     global last_request_time
     current_time = time.time()
     if current_time - last_request_time >= request_interval:
-        token = 'bca1d81e1df647769c17fc3a5f012d0f' #在pushplus网站中可以找到
+        token = 'b****f' #在pushplus网站中可以找到
         title= '电脑断电！' #改成你要的标题内容
         content ='实验室的电脑' #改成你要的正文内容
         url = 'http://www.pushplus.plus/send?token='+token+'&title='+title+'&content='+content
