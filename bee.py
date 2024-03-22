@@ -68,7 +68,7 @@ def set_max_volume_and_beep():
             os.system("powershell (new-object -com wscript.shell).SendKeys([char]176)")
             # 播放蜂鸣声
             pygame.mixer.init()
-            pygame.mixer.music.load("E:\\github_res\\Scare-the-thief\\dg.mp3")
+            pygame.mixer.music.load("dg.mp3")
             pygame.mixer.music.set_volume(1.0)
             pygame.mixer.music.play()
             while pygame.mixer.music.get_busy():
