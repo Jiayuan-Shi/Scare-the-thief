@@ -11,6 +11,7 @@ Since this script automatically amplifies the system sound and plays annoying so
 In your directory， run below in command line, :
 ```
 git clone https://github.com/Jiayuan-Shi/Scare-the-thief.git
+cd Scare-the-thief
 python bee.py
 ```
 Ctrl + C to stop 停止。
